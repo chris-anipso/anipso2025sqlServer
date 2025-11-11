@@ -1,0 +1,22 @@
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.meta
+
+# SQL Server Project specific
+*.dbmdl
+*.jfm
+*.sqlproj.user
